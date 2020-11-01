@@ -1,12 +1,11 @@
-package com.example.madlevel6example
+package com.example.madlevel6example.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
-import androidx.navigation.fragment.findNavController
+import com.example.madlevel6example.R
 
 class TriviaFragment : Fragment() {
 
